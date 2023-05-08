@@ -1,0 +1,11 @@
+{
+    "name": "Meet Notes",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Automatically opens Notion page for taking notes when a Google Meet link is clicked",
+    "permissions": ["tabs"],
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+  
